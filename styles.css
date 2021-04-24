@@ -48,10 +48,12 @@
 .newsbar {
   height: 40px;
   margin: 0;
+  padding: 0;
 }
 
 .news_item {
-  margin: 16px 0;
+  margin-left: 16px;
+  margin-bottom: 16px;
   list-style-type: none;
 }
 
